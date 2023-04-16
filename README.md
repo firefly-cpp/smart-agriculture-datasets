@@ -14,7 +14,7 @@ The repository hosts our datasets related to smart agriculture domains.
 
 ## Time series
 
-- Monitoring plant parameters with ESP32
+- [Monitoring plant parameters with ESP32](https://github.com/firefly-cpp/smart-agriculture-datasets/tree/main/plant-monitoring-esp32)
 
 
 ## License
