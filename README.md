@@ -12,7 +12,7 @@ The repository contains datasets related to the domain of smart agriculture. The
 
 ## Contents
 - 📷 [Computer vision](#computer-vision-)
-- 🕰️ [Time series](#time-series-)
+- 🕰️ [Time series](#time-series-%EF%B8%8F)
 
 ## Computer vision 📷
 
