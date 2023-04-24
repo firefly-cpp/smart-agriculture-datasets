@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="logo" width="300" src=".github/images/logo.png">
+  <img alt="logo" width="256" src=".github/images/logo-256.png">
 </p>
 
 
@@ -7,17 +7,18 @@
 
 ## About
 
-The repository hosts our datasets related to smart agriculture domains.
+The repository contains datasets related to the domain of smart agriculture. The contents of the repository are currently organized into two categories: computer vision and time series.
+
 
 ## Contents
-- [Computer vision](#computer-vision-)
-- [Time series](#time-series-)
+- 📷 [Computer vision](#computer-vision-)
+- 🕰️ [Time series](#time-series-)
 
-## Computer vision
+## Computer vision 📷
 
 - [Arion rufus snails dataset](https://github.com/firefly-cpp/snail-dataset)
 
-## Time series
+## Time series 🕰️
 
 - [Monitoring plant parameters with ESP32](https://github.com/firefly-cpp/smart-agriculture-datasets/tree/main/plant-monitoring-esp32)
 - [Monitoring plant parameters with Raspberry PI](https://github.com/firefly-cpp/smart-agriculture-datasets/tree/main/plant-monitoring-rpi)
