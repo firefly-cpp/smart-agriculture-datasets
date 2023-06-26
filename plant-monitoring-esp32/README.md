@@ -9,9 +9,6 @@ The dataset presents a 14-day measure utilizing the Aloe vera plant. The followi
 
 Each data point is accompanied by the time and date stamp of the captured event.
 
-## Parameters measured
-
-
 # Hardware
 
 <p align="center">
