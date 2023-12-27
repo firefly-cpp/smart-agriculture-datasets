@@ -5,6 +5,8 @@
 
 # smart-agriculture-datasets
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10436752.svg)](https://doi.org/10.5281/zenodo.10436752)
+
 ## About
 
 The repository contains datasets related to the domain of smart agriculture. The contents of the repository are currently organized into two categories: computer vision and time series.
