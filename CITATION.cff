@@ -1,0 +1,13 @@
+authors:
+- family-names: Fister Jr.
+  given-names: Iztok
+  orcid: 0000-0002-6418-1272
+cff-version: 1.2.0
+date-released: '2023-12-27'
+doi: 10.5281/zenodo.10436752
+license:
+- cc-by-4.0
+repository-code: https://github.com/firefly-cpp/smart-agriculture-datasets/tree/1.0
+title: 'firefly-cpp/smart-agriculture-datasets: 1.0'
+type: software
+version: '1.0'
