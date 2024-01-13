@@ -6,6 +6,9 @@
 # smart-agriculture-datasets
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10436752.svg)](https://doi.org/10.5281/zenodo.10436752)
+![GitHub repo size](https://img.shields.io/github/repo-size/firefly-cpp/smart-agriculture-datasets?style=flat-square)
+[![GitHub license](https://img.shields.io/github/license/firefly-cpp/smart-agriculture-datasets.svg)](https://github.com/firefly-cpp/smart-agriculture-datasets/blob/master/LICENSE)
+![GitHub contributors](https://img.shields.io/github/contributors/firefly-cpp/smart-agriculture-datasets.svg)
 
 ## About
 
