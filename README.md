@@ -28,6 +28,10 @@ The repository contains datasets related to the domain of smart agriculture. The
 - [Monitoring plant parameters with ESP32](https://github.com/firefly-cpp/smart-agriculture-datasets/tree/main/plant-monitoring-esp32)
 - [Monitoring plant parameters with Raspberry PI](https://github.com/firefly-cpp/smart-agriculture-datasets/tree/main/plant-monitoring-rpi)
 
+## Related work
+
+[Data Collection with LilyGO T-Call in Smart Agriculture](https://codeberg.org/firefly-cpp/t-call-esp32-data-collection)
+
 ## Cite us
 
 Fister Jr., I. (2023). firefly-cpp/smart-agriculture-datasets: 1.0 (1.0). Zenodo. [https://doi.org/10.5281/zenodo.10436752](https://doi.org/10.5281/zenodo.10436752)
