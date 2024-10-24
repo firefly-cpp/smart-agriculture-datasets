@@ -1,6 +1,6 @@
 # Dataset description
 
-The dataset presents a 14-day measure utilizing the Aloe vera plant. The following parameters were captured using a simple ESP32 hardware environment consisting of several sensors (see sensor details above):
+The dataset consists of 14-day capturing sensor measurements on the Aloe vera plant. The following parameters were captured using a simple ESP32 hardware environment consisting of several sensors (see sensor details above):
 
 - temperature,
 - humidity,

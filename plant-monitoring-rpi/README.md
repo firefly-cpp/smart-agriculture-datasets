@@ -1,6 +1,6 @@
 # Dataset description
 
-The dataset presents a 8-day measure utilizing the Aloe vera plant. The following parameters were captured using a simple RaspberryPi hardware environment consisting of two sensors (see sensor details above):
+The dataset consists of 8-day capturing sensor measurements on the Aloe vera plant. The following parameters were captured using a simple RaspberryPi hardware environment consisting of two sensors (see sensor details above):
 
 - temperature,
 - moisture.
